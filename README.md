@@ -21,6 +21,4 @@
    8. Analyzing listing prices by NYC borough
    9. Price range by borough
    10. Export the datasets that you have cleaned.
-   
-
-7. 
+ 
